@@ -1,0 +1,122 @@
+[
+    {
+      "employeeID" : 1,
+      "name" : "Fuller Andrew",
+      "title" : "Manager",
+      "birthDate" : "1952-02-19 00:00:00.000",
+      "phone" : "(206) 555-9482",
+      "address" : "908 W. Capital Way",
+      "availability" : true ,
+      "sick" : false,
+      "extraWork" : false,
+      "img" : "https://i.pinimg.com/564x/5f/f2/35/5ff23504b802de5222f4d800101de066.jpg"
+         
+   },
+   {
+    "employeeID" : 2,
+    "name" : "Buchanan Steven",
+    "title" : "Server",
+    "birthDate" : "1955-03-04 00:00:00.000",
+    "phone" : "(71) 555-4848",
+    "address" :  "14 Garrett Hill",
+    "availability" : true ,
+    "sick" : false,
+      "extraWork" : true,
+    "img" : "https://i.pinimg.com/564x/ff/d5/b4/ffd5b42b93cfbcc5f4a9cc51a5598848.jpg"
+ },
+{
+    "employeeID" : 3,
+    "name" : "Leverling Janet",
+    "title" : "Chef",
+    "birthDate" : "1963-08-30 00:00:00.000",
+    "phone" : "(206) 555-3412",
+    "address" : "722 Moss Bay Blvd.",
+    "availability" : true ,
+    "sick" : false,
+      "extraWork" : false,
+    "img" : "https://i.pinimg.com/564x/2a/19/70/2a1970f571124d5104f672eb5aa9ea86.jpg"
+}, {
+    "employeeID" : 4,
+    "name" : "David Kook",
+    "title" : "Server",
+    "birthDate" : "1976-09-24 00:00:00.000",
+    "phone" : "(71) 576-8848",
+    "address" :  "14 Peters Mores",
+    "availability" : true ,
+    "sick" : false,
+    "extraWork" : false,
+    "img" : "https://i.pinimg.com/564x/d8/5b/65/d85b658b23e766c66f7961cdbad06537.jpg" 
+},
+{
+    "employeeID" : 5,
+    "name" : "Alex Lopes",
+    "title" : "Barman",
+    "birthDate" : "1992-08-14 00:00:00.000",
+    "phone" : "(71) 555-6666",
+    "address" :  "67 Beverly Hill" ,
+    "availability" : true ,
+    "sick" : false,
+    "extraWork" : false,
+    "img" : "https://i.pinimg.com/564x/71/32/9a/71329aa0308303eee4d8a59e81168cc2.jpg"
+},
+{
+    "employeeID" : 6,
+    "name" : "Tom Crus",
+    "title" : "Barman",
+    "birthDate" : "1997-09-24 00:00:00.000",
+    "phone" : "(71) 545-4466",
+    "address" :  "77 Batman Hill" ,
+    "availability" : true ,
+    "sick" : false,
+    "extraWork" : false,
+    "img" : "https://i.pinimg.com/564x/63/b2/43/63b243bd06ef7b05a447b77f8bc444ab.jpg"
+},
+{
+    "employeeID" : 7,
+    "name" : "Tony Weber",
+    "title" : "Designer",
+    "birthDate" : "1997-09-24 00:00:00.000",
+    "phone" : "(71) 540-2266",
+    "address" :  "17 Chine Hill" ,
+    "availability" : true ,
+    "sick" : false,
+    "extraWork" : false,
+    "img" : "https://i.pinimg.com/564x/ce/3f/ae/ce3faeccf30598f62f2f1f3b7f3c63f5.jpg"
+},
+{
+    "employeeID" : 8,
+    "name" : "Elise Pole",
+    "title" : "Server",
+    "birthDate" : "1967-04-14 00:00:00.000",
+    "phone" : "(71) 234-4466",
+    "address" :  "97 Chanel Hill" ,
+    "availability" : true ,
+    "sick" : false,
+    "extraWork" : false,
+    "img" : "https://i.pinimg.com/564x/9e/a8/47/9ea8474f10676152f639bce728c7531c.jpg"
+},
+    {
+        "employeeID" : 9,
+        "name" : "Emi Kok",
+        "title" : "Chef junior",
+        "birthDate" : "1987-10-05 00:00:00.000",
+        "phone" : "(71) 545-4896",
+        "address" :  "98 Spider Hill" ,
+        "availability" : true ,
+        "sick" : false,
+        "extraWork" : false,
+        "img" : "https://i.pinimg.com/564x/c9/89/d6/c989d6431cc1cf444cad2b4ab64dafcc.jpg"
+    },
+    {
+        "employeeID" : 10,
+        "name" : "Elisabeth Smith",
+        "title" : "Server",
+        "birthDate" : "1980-02-27 00:00:00.000",
+        "phone" : "(71) 595-2369",
+        "address" :  "66 Tokio Hill" ,
+        "availability" : true ,
+        "sick" : false,
+        "extraWork" : false,
+        "img" : "https://i.pinimg.com/564x/b6/4f/79/b64f798bbe07418db6abd047f49c3fa0.jpg"
+    }
+]
